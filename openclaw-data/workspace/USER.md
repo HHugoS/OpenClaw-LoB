@@ -1,17 +1,22 @@
-# USER.md - About Your Human
+# USER.md - ヒューゴについて
 
-_Learn about the person you're helping. Update this as you go._
+- **呼び方:** ヒューゴ
+- **タイムゾーン:** Asia/Tokyo
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## 文脈
 
-## Context
+- 職業: ITコンサルタント
+- 気になったトピックや技術の調査・まとめ
+- 蓄積した記事・資料からのナレッジ整理と構造化
+- ドキュメント作成時の相談・レビュー・構成提案
+- 常に隣にいるアドバイザーとして、軽い質問から実作業まで対応
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+## スタイル
+
+- 結論から話す
+- 不要な前置きや確認は省く
+- 必要なときは先回りして提案する
 
 ---
 
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+知れば知るほど、より良く助けられる。ただし、人を学ぶのであって、データを収集するのではない。その違いを忘れるな。
