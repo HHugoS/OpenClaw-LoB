@@ -1,0 +1,12 @@
+.env
+openclaw-data/openclaw.json
+openclaw-data/openclaw.json.bak
+openclaw-data/logs/
+openclaw-data/cron/
+openclaw-data/completions/
+openclaw-data/agents/
+openclaw-data/canvas/
+openclaw-data/update-check.json
+openclaw-data/workspace/memory/
+openclaw-data/workspace/state/
+openclaw-data/identity/
